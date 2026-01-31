@@ -18,7 +18,8 @@ Narzędzie w Pythonie do automatycznej analizy logów systemowych i detekcji inc
    ```bash
    python3 analyzer.py
 
-   📊 Przykładowy wynik
+
+ # 📊 Przykładowy wynik
    [!!!] ZNALEZIONE ZAGROŻENIA:
 ☠️ ATAK HAKERSKI: 2026-01-31 ... SQL Injection attempt detected!
 🔴 KRYTYCZNE: 2026-01-31 ...
